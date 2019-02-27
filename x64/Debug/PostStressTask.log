@@ -1,0 +1,2 @@
+﻿  PostStressTask.cpp
+LINK : fatal error LNK1168: cannot open C:\Users\suzy\source\repos\PostStressTask\x64\Debug\PostStressTask.exe for writing
